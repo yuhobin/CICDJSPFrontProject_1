@@ -116,6 +116,7 @@ public class FoodModel {
 				obj.put("startPage", startPage);
 				obj.put("endPage", endPage);
 				obj.put("count", count);
+				obj.put("ss", ss);
 			}
 			arr.add(obj); // [{},{}...]
 			i++;
